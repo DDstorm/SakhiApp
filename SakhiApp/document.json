@@ -1,0 +1,50 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "0DBB1E8F-FB0C-48B2-A3DD-6ECA1A4F75F8",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "54234f90-4cc5-11ea-8dd6-8b8498d49c13",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "61.2",
+    "build": 89653,
+    "version": 121
+  },
+  "pages": [
+    "Page 1"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
