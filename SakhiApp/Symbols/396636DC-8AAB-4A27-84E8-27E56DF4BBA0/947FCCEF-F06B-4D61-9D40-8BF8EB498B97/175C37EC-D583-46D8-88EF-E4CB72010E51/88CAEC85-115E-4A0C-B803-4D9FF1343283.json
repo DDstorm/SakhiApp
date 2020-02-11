@@ -1,9 +1,9 @@
 {
-  "_class": "rectangle",
-  "booleanOperation": -1,
+  "_class": "shapePath",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "E2A2CF81-3DEE-42BC-A92D-64C3E9B81053",
-  "edited": false,
+  "do_objectID": "88CAEC85-115E-4A0C-B803-4D9FF1343283",
+  "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,18 +13,16 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 445,
-    "width": 498,
-    "x": 276,
-    "y": 88
+    "height": 9.879999999999999,
+    "width": 1.795586735637931,
+    "x": 22.918870419852,
+    "y": 3.661904457090458
   },
   "hasClippingMask": false,
-  "hasConvertedToNewRoundCorners": true,
-  "isClosed": true,
+  "isClosed": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -32,15 +30,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Rectangle",
+  "name": "Path 8 Copy 2",
   "nameIsFixed": false,
-  "needsConvertionToNewRoundCorners": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0, 0}",
+      "curveFrom": "{0, 0.16666666666666693}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
       "hasCurveFrom": false,
@@ -50,37 +47,27 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1, 0}",
-      "curveMode": 1,
-      "curveTo": "{1, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0}"
+      "curveFrom": "{0.9999999999999406, 0.80678274785744664}",
+      "curveMode": 2,
+      "curveTo": "{1.0000000000000602, 0.19895322175839095}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{1, 0.5028679848079185}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1, 1}",
+      "curveFrom": "{0, 1.0000000000000022}",
       "curveMode": 1,
-      "curveTo": "{1, 1}",
+      "curveTo": "{0, 0.83333333333333603}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1, 1}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 1}",
-      "curveMode": 1,
-      "curveTo": "{0, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 1}"
+      "point": "{0, 1.0000000000000022}"
     }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": 8,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -89,7 +76,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 5.32,
       "saturation": 1,
       "type": 0
     },
@@ -98,7 +85,7 @@
       "dashPattern": [
       ],
       "isEnabled": true,
-      "lineCapStyle": 0,
+      "lineCapStyle": 1,
       "lineJoinStyle": 0
     },
     "borders": [
@@ -107,9 +94,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -149,8 +136,8 @@
           "to": "{0.5, 1}"
         },
         "isEnabled": true,
-        "position": 1,
-        "thickness": 1
+        "position": 0,
+        "thickness": 1.57
       }
     ],
     "colorControls": {
@@ -158,7 +145,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -166,7 +153,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "59FC3B79-30B9-4430-8DEB-68391000D2AF",
+    "do_objectID": "E1AA2443-B88A-4CE6-8364-1BB8E6653EFC",
     "endMarkerType": 0,
     "fills": [
       {
@@ -215,7 +202,7 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

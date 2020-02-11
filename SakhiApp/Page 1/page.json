@@ -40,8 +40,36 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "E2A2CF81-3DEE-42BC-A92D-64C3E9B81053"
+      "class": "artboard",
+      "id": "D2D7974A-2718-4F83-B11A-C27728F4DAF7"
+    },
+    {
+      "class": "artboard",
+      "id": "0D9538A3-5192-4AFF-8CC1-6FA3BC21B9A6"
+    },
+    {
+      "class": "artboard",
+      "id": "E60D1A15-3A3E-4334-8AFF-69A790761070"
+    },
+    {
+      "class": "artboard",
+      "id": "C69D9F15-4ADC-4890-A8A7-B97D19025A7A"
+    },
+    {
+      "class": "artboard",
+      "id": "50A11A93-988A-452A-8798-3E10CC068832"
+    },
+    {
+      "class": "artboard",
+      "id": "08C874ED-02D4-41EE-A38C-494A7B008B45"
+    },
+    {
+      "class": "artboard",
+      "id": "3C4833F2-9676-4E9A-A74E-4C997AE98263"
+    },
+    {
+      "class": "artboard",
+      "id": "B7F75D7E-CC50-4745-B74C-E6C749A10A95"
     }
   ],
   "maintainScrollPosition": false,
