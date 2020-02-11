@@ -39,10 +39,6 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "E2A2CF81-3DEE-42BC-A92D-64C3E9B81053"
-    }
   ],
   "maintainScrollPosition": false,
   "name": "Page 1",
