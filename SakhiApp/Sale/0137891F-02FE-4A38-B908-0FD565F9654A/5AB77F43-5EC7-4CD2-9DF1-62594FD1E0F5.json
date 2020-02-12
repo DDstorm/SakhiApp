@@ -32,7 +32,7 @@
         "location": 0
       }
     ],
-    "string": "Selected"
+    "string": "Products"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 81,
-    "x": 59,
-    "y": 242
+    "width": 83,
+    "x": 16,
+    "y": 239
   },
-  "glyphBounds": "{{0, 4}, {80, 16}}",
+  "glyphBounds": "{{1, 4}, {82, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Selected",
+  "name": "Products",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

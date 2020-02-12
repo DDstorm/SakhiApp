@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B261047F-04F1-4749-A013-100B15AEBD4B",
+  "do_objectID": "85D44DB8-626A-41A1-922C-F9B717E3CB8E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 76,
-    "width": 279,
-    "x": 0,
-    "y": 235
+    "height": 126,
+    "width": 353,
+    "x": 7,
+    "y": 646
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -29,11 +29,11 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Item",
+  "name": "Cella v0.1/1 Copy 3",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 13,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -72,7 +72,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "71F7547A-838A-4EBC-8D11-45F9BF00B0D1",
+    "do_objectID": "EBE2F9D5-73BB-40DC-9A43-7E984EF96F6E",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -84,6 +84,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C953CEF8-88F8-4024-9DAA-5A68B41A9D89",
+  "symbolID": "13547534-64CC-482E-837A-324D747D574D",
   "verticalSpacing": 0
 }

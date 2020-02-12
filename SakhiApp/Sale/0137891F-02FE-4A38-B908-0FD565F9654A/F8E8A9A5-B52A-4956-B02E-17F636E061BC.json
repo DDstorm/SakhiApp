@@ -9,36 +9,35 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.216889880952381,
+            "green": 0.1775939694545499,
+            "red": 0.1504382582568618
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
-              "size": 10.8
+              "name": "SFProDisplay-Bold",
+              "size": 20
             }
           },
-          "MSAttributedStringTextTransformAttribute": 1,
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 13,
+        "length": 18,
         "location": 0
       }
     ],
-    "string": "Limited offer"
+    "string": "Total: 1,34,055.79"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CA82915E-A5D8-4E9B-B8BE-BC56B102B36F",
+  "do_objectID": "F8E8A9A5-B52A-4956-B02E-17F636E061BC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 83,
-    "x": 84.05000000000001,
-    "y": 18.9
+    "height": 24,
+    "width": 171,
+    "x": 21,
+    "y": 956
   },
-  "glyphBounds": "{{0, 2}, {82, 9}}",
+  "glyphBounds": "{{0, 4}, {170, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +66,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Limited offer",
+  "name": "Total: 1,34,055.79",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -80,7 +79,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 9,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -107,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7F3252EF-527C-4EBC-B8FA-692F76855B1D",
+    "do_objectID": "3C6B41EE-B8F6-4863-9E30-680FF95D4353",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -123,22 +122,21 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.216889880952381,
+          "green": 0.1775939694545499,
+          "red": 0.1504382582568618
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
-            "size": 10.8
+            "name": "SFProDisplay-Bold",
+            "size": 20
           }
         },
-        "MSAttributedStringTextTransformAttribute": 1,
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 0

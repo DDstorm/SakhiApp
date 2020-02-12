@@ -1,9 +1,8 @@
 {
-  "_class": "bitmap",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "F09AD8AF-4692-4F3A-9684-3078BE65AFF1",
+  "do_objectID": "6969DCDA-7090-4340-93ED-FF3174585F57",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,22 +12,16 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 200,
-    "width": 133,
-    "x": 134,
-    "y": -2
+    "constrainProportions": false,
+    "height": 126,
+    "width": 353,
+    "x": 7,
+    "y": 394
   },
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/d755d1510d827b961ad374127d76f10d2eae5b63.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -36,11 +29,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Diva_Lantern",
+  "name": "Cella v0.1/1 Copy",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +72,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "1A23289A-05EE-43D8-BD8A-1AE83900D06A",
+    "do_objectID": "8CCFD130-D997-40E8-A106-505A694D9568",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,5 +83,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "AEC28FFA-7997-4FF0-B547-96F38EDD4E69",
+  "verticalSpacing": 0
 }

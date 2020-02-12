@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FA5DE29A-2DD3-4EAA-BCB0-31ADF993F853",
+  "do_objectID": "59C80BF3-048B-4701-B9F7-570D4A6F1F0F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,38 +15,28 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 197,
-    "width": 252,
-    "x": 59,
-    "y": 289
+    "height": 126,
+    "width": 353,
+    "x": 7,
+    "y": 268
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "rectangle",
-      "id": "F205D731-1D82-4A1A-A97B-B505E3245FCF"
-    },
-    {
-      "class": "group",
-      "id": "FFA7B6EA-DD70-4DA9-AECD-BA43FD035CF1"
-    }
-  ],
+  "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Item",
-  "nameIsFixed": true,
+  "name": "Cella v0.1/1",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -55,7 +45,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 9,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -82,7 +72,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "89D2B7E0-FD1F-4F72-9697-1D446E96A380",
+    "do_objectID": "810E2F3C-CD17-4ADD-9968-EEA35140EB23",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -93,5 +83,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "7A565BF6-2839-4483-B8E3-D3B0CECD9AE6",
+  "verticalSpacing": 0
 }
