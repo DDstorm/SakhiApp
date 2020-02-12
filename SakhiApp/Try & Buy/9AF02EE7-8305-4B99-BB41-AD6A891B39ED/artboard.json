@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A0FD408D-FBBB-4492-A61A-8CF113D32506",
+  "do_objectID": "9AF02EE7-8305-4B99-BB41-AD6A891B39ED",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -31,16 +31,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
+    "height": 942,
     "width": 375,
-    "x": 1186,
-    "y": -500
+    "x": -170,
+    "y": -557
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,23 +60,39 @@
   "layers": [
     {
       "class": "group",
-      "id": "5FE2D530-DD62-493B-BD1F-B3DF65343A58"
+      "id": "3869D853-2B1B-4B59-94C1-F7AB0FB42913"
+    },
+    {
+      "class": "rectangle",
+      "id": "ED1F0263-A114-4241-8610-196B414FB624"
+    },
+    {
+      "class": "group",
+      "id": "13D3D98F-33D2-4EE5-BDC1-28AFDCB9A37E"
+    },
+    {
+      "class": "text",
+      "id": "91EF0490-69CE-4D3D-B439-79FA8781AE5B"
     },
     {
       "class": "symbolInstance",
-      "id": "37792765-7FD4-4C62-951B-98E0870BD2EF"
+      "id": "4AAF937D-3C46-4849-BCE5-6127F40D2DF0"
     },
     {
-      "class": "group",
-      "id": "347030A8-7C27-492D-BAC8-EE8275300DEA"
+      "class": "symbolInstance",
+      "id": "292E936F-61D9-42DE-970A-8D61BF2516CD"
     },
     {
-      "class": "group",
-      "id": "55D22423-F9DA-4EE8-81B1-F8F94197794D"
+      "class": "symbolInstance",
+      "id": "AB4E9A53-F676-48C7-92CD-11A602D746BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4982A3DD-12E0-4300-ACCD-18624D488E61"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "try and buy 3",
+  "name": "Try and buy work in progress",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -124,7 +140,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D3E10839-F69D-4DC9-ADAB-433F8FDF504A",
+    "do_objectID": "BC4C2F9A-79D3-43B5-A5F7-E721D120AF95",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -140,7 +156,6 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      61
     ]
   }
 }
