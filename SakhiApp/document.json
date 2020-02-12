@@ -6542,11 +6542,11 @@
   },
   "pages": [
     "Definitivo",
-    "Page 1",
     "People",
     "Try & Buy",
     "Sale",
-    "Symbols"
+    "Symbols",
+    "Page 1"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
