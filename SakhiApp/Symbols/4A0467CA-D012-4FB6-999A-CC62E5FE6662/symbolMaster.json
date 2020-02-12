@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 173,
+  "changeIdentifier": 198,
   "clippingMaskMode": 0,
   "do_objectID": "4A0467CA-D012-4FB6-999A-CC62E5FE6662",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 26,
     "width": 40,
-    "x": 3163,
-    "y": -998
+    "x": -225,
+    "y": -298
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -35,7 +35,7 @@
     "layoutAnchor": 1
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -67,6 +67,16 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "840CD842-0C7B-4FE1-A25B-1056EF0A571A_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "12DFBDE5-8609-4FF4-9FBD-89D7CEA2A962_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "51084F39-3476-4E89-BB0B-E7E228F0371C_layerStyle"
     }
   ],
   "presetDictionary": {

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 308,
+  "changeIdentifier": 987,
   "clippingMaskMode": 0,
   "do_objectID": "F57FD7D4-2FE3-4376-9596-C9963B7ABBDD",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 126,
     "width": 353,
-    "x": 392,
-    "y": 372
+    "x": -588,
+    "y": 486
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,40 +50,57 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
       "id": "BF85B8B4-E848-4DDB-9F39-B5E028E04E19"
     },
     {
+      "class": "group",
+      "id": "20617563-EDB5-4742-88CF-622005E3E40F"
+    },
+    {
+      "class": "text",
+      "id": "A9AF1DB7-4CE1-4192-80C8-8E5ABD99FFC0"
+    },
+    {
+      "class": "text",
+      "id": "96E4B9A4-FF26-409F-98FD-A991484DE16F"
+    },
+    {
       "class": "symbolInstance",
-      "id": "F21D9829-05C3-4F9A-8FF3-FCC4900664DE"
+      "id": "642D9EE8-C2AD-4CC2-8852-C5C5D7B0F828"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Cella v0.1/1",
+  "name": "Cella Try&Buy v0.1",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "428C7FFC-592E-4E34-87C1-6DD66F8A4C8A_stringValue"
+      "overrideName": "A9AF1DB7-4CE1-4192-80C8-8E5ABD99FFC0_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "61F38DF5-A0CC-494C-9A11-D1A6E21D7520_stringValue"
+      "overrideName": "642D9EE8-C2AD-4CC2-8852-C5C5D7B0F828_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "96E4B9A4-FF26-409F-98FD-A991484DE16F_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1D8C4427-C024-4325-AC7C-CDB9FA0036FA_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "96F16A05-1316-482F-A4B9-0880DBE1B98C_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "F21D9829-05C3-4F9A-8FF3-FCC4900664DE_symbolID"
     }
   ],
   "presetDictionary": {

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 15,
+  "changeIdentifier": 40,
   "clippingMaskMode": 0,
   "do_objectID": "8C233988-4A9D-4D05-9328-4EE9A57CD917",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 82,
     "width": 65,
-    "x": 4042,
-    "y": -998
+    "x": 654,
+    "y": -298
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,6 +61,11 @@
   "name": "cash btn",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "19A51872-7E32-4A07-BB90-26AF994CC2DC_stringValue"
+    }
   ],
   "presetDictionary": {
   },
