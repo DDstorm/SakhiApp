@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4124,
+  "changeIdentifier": 4167,
   "clippingMaskMode": 0,
   "do_objectID": "D340DE5C-4FAD-47E3-8952-33091CC8584E",
   "exportOptions": {
@@ -26,8 +26,8 @@
     "constrainProportions": false,
     "height": 103,
     "width": 375,
-    "x": 199,
-    "y": -909
+    "x": 172,
+    "y": -998
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -86,7 +86,7 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "counter verticale/1",
+  "name": "Counter Verticale/1",
   "nameIsFixed": true,
   "overrideProperties": [
     {
