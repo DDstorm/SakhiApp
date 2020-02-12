@@ -79,16 +79,16 @@
       "id": "4AAF937D-3C46-4849-BCE5-6127F40D2DF0"
     },
     {
-      "class": "symbolInstance",
-      "id": "292E936F-61D9-42DE-970A-8D61BF2516CD"
+      "class": "group",
+      "id": "D9630718-4CF8-4D71-80BF-9B4950E1F3BE"
     },
     {
-      "class": "symbolInstance",
-      "id": "AB4E9A53-F676-48C7-92CD-11A602D746BE"
+      "class": "group",
+      "id": "2E9E407C-9B40-44DB-B98F-CBB6E7281613"
     },
     {
-      "class": "symbolInstance",
-      "id": "4982A3DD-12E0-4300-ACCD-18624D488E61"
+      "class": "group",
+      "id": "C6A467F8-84C5-4FCB-97E6-801D274A3210"
     }
   ],
   "maintainScrollPosition": false,

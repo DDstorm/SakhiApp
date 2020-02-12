@@ -71,20 +71,20 @@
       "id": "A7EC94A2-A105-4642-A1CC-167E81E7AA43"
     },
     {
-      "class": "symbolInstance",
-      "id": "C086CAD0-A8B1-48C4-8CD5-029CF16AD6E6"
+      "class": "group",
+      "id": "4DB3E265-66A4-403F-A696-6028F39A2C33"
     },
     {
-      "class": "symbolInstance",
-      "id": "6FF80CFC-8531-49C2-8BC2-F29F13612DE7"
+      "class": "group",
+      "id": "CA319082-3D0F-44A4-AB3B-F5F56D7692EC"
     },
     {
-      "class": "symbolInstance",
-      "id": "8E64E388-7988-4744-A729-F6D527A3784B"
+      "class": "group",
+      "id": "A86D8A32-CA1B-4C12-9A69-CE4392E6580B"
     },
     {
-      "class": "symbolInstance",
-      "id": "0ABD1E22-F5F8-48D7-A404-494A6BE5C788"
+      "class": "group",
+      "id": "6F8D3199-A3C8-4C45-B370-2ED22D162368"
     }
   ],
   "maintainScrollPosition": false,

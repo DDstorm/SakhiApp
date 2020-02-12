@@ -52,7 +52,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 102,
+    "width": 131,
     "x": 108,
     "y": 20.93932713320226
   },
@@ -145,5 +145,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }
