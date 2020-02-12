@@ -94,6 +94,26 @@
     {
       "class": "group",
       "id": "9D0B1064-726D-4898-AFD5-15C23B4D9D4E"
+    },
+    {
+      "class": "artboard",
+      "id": "26785EDC-0542-44FF-840A-CC9D14B66253"
+    },
+    {
+      "class": "artboard",
+      "id": "632B71B6-48C6-4139-B5E8-4CAA4750D601"
+    },
+    {
+      "class": "artboard",
+      "id": "C17B669F-C26C-4614-A6E5-B81FFD8D15A6"
+    },
+    {
+      "class": "artboard",
+      "id": "773FF18B-4583-4658-B32A-D9C73B65BB8C"
+    },
+    {
+      "class": "artboard",
+      "id": "78AE9D3F-8454-4868-96D0-636FFB4300D5"
     }
   ],
   "maintainScrollPosition": false,
