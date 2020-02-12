@@ -19,8 +19,8 @@
     "constrainProportions": true,
     "height": 96,
     "width": 96,
-    "x": 22,
-    "y": 256
+    "x": 23,
+    "y": 255.9999999999999
   },
   "hasClippingMask": false,
   "image": {
@@ -40,7 +40,7 @@
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": -23,
+  "rotation": -20,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
