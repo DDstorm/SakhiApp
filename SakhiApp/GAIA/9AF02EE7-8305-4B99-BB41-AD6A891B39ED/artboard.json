@@ -33,14 +33,14 @@
     "constrainProportions": false,
     "height": 942,
     "width": 375,
-    "x": 287,
-    "y": -500
+    "x": 279,
+    "y": -754
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -71,28 +71,28 @@
       "id": "13D3D98F-33D2-4EE5-BDC1-28AFDCB9A37E"
     },
     {
-      "class": "rectangle",
-      "id": "1830B74B-99F0-41F8-8926-2186F9315FD8"
-    },
-    {
-      "class": "group",
-      "id": "DD875550-C0CF-4DA4-9846-137D6BDF6C49"
-    },
-    {
-      "class": "bitmap",
-      "id": "A13E05EA-A94F-493F-9063-7F1CD3B9311A"
-    },
-    {
       "class": "text",
-      "id": "96F16A05-1316-482F-A4B9-0880DBE1B98C"
+      "id": "91EF0490-69CE-4D3D-B439-79FA8781AE5B"
     },
     {
-      "class": "text",
-      "id": "428C7FFC-592E-4E34-87C1-6DD66F8A4C8A"
+      "class": "symbolInstance",
+      "id": "4AAF937D-3C46-4849-BCE5-6127F40D2DF0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "292E936F-61D9-42DE-970A-8D61BF2516CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AB4E9A53-F676-48C7-92CD-11A602D746BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4982A3DD-12E0-4300-ACCD-18624D488E61"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Try and buy",
+  "name": "Try and buy work in progress",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
