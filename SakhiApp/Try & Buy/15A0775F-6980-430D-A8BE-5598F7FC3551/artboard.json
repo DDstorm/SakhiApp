@@ -1,11 +1,27 @@
 {
-  "_class": "page",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ECA1C2EC-20E8-4D6C-8EE8-0C19EAF10AC7",
+  "do_objectID": "15A0775F-6980-430D-A8BE-5598F7FC3551",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "svg",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -15,54 +31,77 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 999,
+    "width": 375,
+    "x": 470,
+    "y": -557
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -572,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "artboard",
-      "id": "A0FD408D-FBBB-4492-A61A-8CF113D32506"
+      "class": "group",
+      "id": "9A9F5933-17EF-433A-8B43-C63C77A11445"
     },
     {
-      "class": "artboard",
-      "id": "9AF02EE7-8305-4B99-BB41-AD6A891B39ED"
+      "class": "group",
+      "id": "F5F4AE56-794F-4621-A2A4-AB880F1638CF"
     },
     {
-      "class": "artboard",
-      "id": "4CAD6318-F142-4AB6-8F05-05A59D730AA8"
+      "class": "group",
+      "id": "A90ED269-8A1A-4487-A2A0-B2F5F94B86F9"
     },
     {
-      "class": "artboard",
-      "id": "15A0775F-6980-430D-A8BE-5598F7FC3551"
+      "class": "symbolInstance",
+      "id": "999F7F8D-5BD9-4C95-ACE7-AD92B1573626"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "771C2956-6227-4294-89EF-246D9330B9E8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6B76DA5-5773-4F01-83DB-AA1485F52698"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "57E02C59-9232-41E2-8D63-AEABD432588C"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "GAIA",
+  "name": "Try and buy quadrato grande Copy",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -97,7 +136,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2BC05433-8B01-42B6-99AE-E20A50D380AE",
+    "do_objectID": "E3A05D12-A261-486D-97F1-0BD9D52B10E7",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -111,7 +150,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -432,
+    "base": 0,
     "guides": [
     ]
   }

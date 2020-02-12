@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4CAD6318-F142-4AB6-8F05-05A59D730AA8",
+  "do_objectID": "A0FD408D-FBBB-4492-A61A-8CF113D32506",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -33,21 +33,19 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 747,
-    "y": -500
+    "x": -170,
+    "y": 1652
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      319.7749999999996,
-      56
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -61,52 +59,24 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "group",
+      "id": "5FE2D530-DD62-493B-BD1F-B3DF65343A58"
+    },
+    {
       "class": "symbolInstance",
-      "id": "5CF3E050-19B4-4243-8089-C1EAD39C63E3"
-    },
-    {
-      "class": "rectangle",
-      "id": "25F266F1-08E8-410A-9A7A-7F9683953119"
-    },
-    {
-      "class": "text",
-      "id": "D3341E8A-696D-42D4-AC0C-47967BC086D3"
-    },
-    {
-      "class": "rectangle",
-      "id": "F313F1EE-695D-440B-B151-592AFFA3BA58"
+      "id": "37792765-7FD4-4C62-951B-98E0870BD2EF"
     },
     {
       "class": "group",
-      "id": "27EB3565-753E-4F38-A808-F9253F58526B"
+      "id": "347030A8-7C27-492D-BAC8-EE8275300DEA"
     },
     {
       "class": "group",
-      "id": "DC1F634D-6C11-4A4E-B337-55AA8C7804F8"
-    },
-    {
-      "class": "group",
-      "id": "D06EC8D2-C567-42D4-952D-84C2E561B121"
-    },
-    {
-      "class": "group",
-      "id": "4D5B1DDA-49C9-40FC-B8A2-9E38A251BEEA"
-    },
-    {
-      "class": "group",
-      "id": "B603A7E6-8082-4C3B-8DAE-C9D0F48B2B87"
-    },
-    {
-      "class": "group",
-      "id": "AC8DF092-9A34-4B39-BE6A-69011E478950"
-    },
-    {
-      "class": "text",
-      "id": "B9ECA65A-AD9A-4737-A787-CA06C9D43C3D"
+      "id": "55D22423-F9DA-4EE8-81B1-F8F94197794D"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "try and buy 2",
+  "name": "try and buy 3",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -154,7 +124,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F47131D7-0281-43FA-90A8-E53149E8FBA0",
+    "do_objectID": "D3E10839-F69D-4DC9-ADAB-433F8FDF504A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -170,6 +140,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      61
     ]
   }
 }
