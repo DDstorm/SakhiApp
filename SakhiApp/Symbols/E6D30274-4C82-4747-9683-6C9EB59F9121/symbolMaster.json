@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 224,
+  "changeIdentifier": 615,
   "clippingMaskMode": 0,
   "do_objectID": "E6D30274-4C82-4747-9683-6C9EB59F9121",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 60,
     "width": 60,
-    "x": 2029,
-    "y": -736
+    "x": -765,
+    "y": 492
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -58,14 +58,9 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Prodotto/3",
-  "nameIsFixed": false,
+  "name": "Cella per Prodotto/3",
+  "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "CA65C917-FF96-42B4-9F92-0A5F7E94B65B_image"
-    }
   ],
   "presetDictionary": {
   },
