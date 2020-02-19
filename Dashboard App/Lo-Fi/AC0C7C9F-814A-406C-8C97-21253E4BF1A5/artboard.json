@@ -53,7 +53,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "40E3BD8B-290A-442F-98AB-3B415046997E"
+      "id": "D193C984-DE56-4977-9BB9-C268AFFD4EA7"
     },
     {
       "class": "symbolInstance",
@@ -133,7 +133,7 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Survey Copy 3",
+  "name": "Survey clicco su elemento tella table",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

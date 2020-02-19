@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 768,
+    "height": 770,
     "width": 1024,
     "x": 0,
     "y": -2
@@ -50,7 +50,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "20958573-894B-4FF7-A194-B62EB1D4728A/5836F910-58E0-4F15-B03F-A72EF8C2F1D3_stringValue",
-      "value": "Add Question"
+      "value": "Titolo 1"
     }
   ],
   "resizingConstraint": 63,

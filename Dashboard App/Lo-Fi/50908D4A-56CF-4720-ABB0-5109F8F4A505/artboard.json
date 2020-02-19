@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,10 +53,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "8D9E13B6-3B12-4518-8564-F3CC3C41E939"
-    },
-    {
-      "class": "symbolInstance",
       "id": "C790BD16-62EC-437D-8970-F648C6AC1936"
     },
     {
@@ -72,8 +68,16 @@
       "id": "B8D8F3E9-B973-4A9E-BA60-1D79551A57FB"
     },
     {
+      "class": "group",
+      "id": "B5DFF949-B0B7-4445-ADE6-1C8357258A00"
+    },
+    {
       "class": "symbolInstance",
       "id": "2D77441A-2F42-4ADC-A6C2-5F4A7E9FB89F"
+    },
+    {
+      "class": "group",
+      "id": "6205D7E7-A9DA-46E2-989A-5EE028EA438A"
     },
     {
       "class": "symbolInstance",
@@ -82,6 +86,14 @@
     {
       "class": "symbolInstance",
       "id": "41066244-F9EA-44C0-A374-CD1249497E6D"
+    },
+    {
+      "class": "group",
+      "id": "2D7AE3D2-3DAA-4A46-A9AF-8A1E2BE50427"
+    },
+    {
+      "class": "group",
+      "id": "62188119-C36C-41CE-BD42-78B5BE2C48F2"
     },
     {
       "class": "symbolInstance",
@@ -98,10 +110,22 @@
     {
       "class": "symbolInstance",
       "id": "294E93A5-FB59-40EA-801F-03B4724BA235"
+    },
+    {
+      "class": "group",
+      "id": "3253F1D8-FCD2-4218-B32A-1D825A6F7BEC"
+    },
+    {
+      "class": "group",
+      "id": "0647EFC3-5C0F-411A-BB43-3C32C325624A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C396279B-C447-42B3-A15E-51A1EC39647C"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Survey Copy 2",
+  "name": "survey- clicco su edit",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

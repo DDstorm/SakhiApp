@@ -209,6 +209,10 @@
     {
       "class": "symbolInstance",
       "id": "1932763E-7F48-4986-B2B4-3D5CAF0DD409"
+    },
+    {
+      "class": "text",
+      "id": "69477F20-30EB-40AB-A13D-05A69CCE816C"
     }
   ],
   "maintainScrollPosition": false,

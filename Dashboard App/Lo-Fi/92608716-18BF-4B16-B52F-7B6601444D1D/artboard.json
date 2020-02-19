@@ -24,7 +24,7 @@
     "constrainProportions": false,
     "height": 768,
     "width": 1024,
-    "x": 10262,
+    "x": 10345,
     "y": 4765
   },
   "groupLayout": {
@@ -53,10 +53,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "FA9A0218-F10E-4F87-91FB-6808720CC38F"
-    },
-    {
-      "class": "symbolInstance",
       "id": "026C605E-C1C5-4935-BB12-57653BB686CB"
     },
     {
@@ -70,6 +66,10 @@
     {
       "class": "symbolInstance",
       "id": "904FBD3C-9D45-4368-A05B-D5425874CC5B"
+    },
+    {
+      "class": "group",
+      "id": "3E2B3A2A-8216-4A20-9EB6-981E34AB5E9C"
     },
     {
       "class": "symbolInstance",
@@ -102,10 +102,14 @@
     {
       "class": "symbolInstance",
       "id": "F44704FA-0B79-479D-AA93-00292AD34050"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28D48934-E82C-422A-88E5-708069212FAB"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Survey",
+  "name": "Survey-dopo aver aggiunto una nuova domanda",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,7 +53,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "4E9D31AF-5067-4739-B1C2-D067FD55851C"
+      "id": "F5C7815E-18FA-4E34-B7E4-03DA904523A4"
     },
     {
       "class": "symbolInstance",
@@ -133,7 +133,7 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Survey Copy 3",
+  "name": "Survey Add Question",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

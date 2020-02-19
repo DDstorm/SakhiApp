@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 768,
     "width": 1024,
-    "x": 6951,
-    "y": 6095
+    "x": 6329,
+    "y": 8683
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -64,6 +64,38 @@
     {
       "class": "symbolInstance",
       "id": "8EFA20A2-D150-4E40-A445-74557EF152B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8ED14186-EC21-446B-9FEA-26FEBAA2E47D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44E6DD08-E572-4FE0-AABC-8917912620A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B12869A-3534-4214-B11C-7766806CCFF5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A4DD30BC-8338-403C-A0D4-579D0E764B61"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B2793168-077F-428E-BD0C-7C60924C5B53"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F45E339F-C9F5-45CF-84EB-A57EAB925B98"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E02F6737-2794-4ABA-A9D1-0CF2E1044695"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "61D905C5-50A2-453D-9C36-2122F4B73432"
     }
   ],
   "maintainScrollPosition": false,

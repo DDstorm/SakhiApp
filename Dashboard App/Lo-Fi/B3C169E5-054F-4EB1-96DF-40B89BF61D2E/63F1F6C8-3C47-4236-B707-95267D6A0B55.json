@@ -40,7 +40,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "5392C4D9-37EE-4D86-B2AC-11E4EB847EF5_symbolID",
-      "value": ""
+      "value": "36B1942B-389B-4E6F-A591-8CDD0A2AC9EA"
     },
     {
       "_class": "overrideValue",
@@ -50,6 +50,11 @@
     {
       "_class": "overrideValue",
       "overrideName": "5FBCE3DB-BCD5-40D4-8AD0-68C2662320A8/350FF114-C76D-4ACE-8343-54042A3D1C21/7168F309-E6C8-4FC4-BD10-47412E085FBC_stringValue",
+      "value": "Add question"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5392C4D9-37EE-4D86-B2AC-11E4EB847EF5/E1309802-4A7A-4BC3-BCBC-554C77A5A76A/A0DCB727-B361-426C-AA3B-645979832755_stringValue",
       "value": "Edit"
     }
   ],
