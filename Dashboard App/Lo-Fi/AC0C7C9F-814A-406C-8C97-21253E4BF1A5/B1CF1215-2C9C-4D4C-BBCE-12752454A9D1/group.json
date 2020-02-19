@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "63F1F6C8-3C47-4236-B707-95267D6A0B55",
+  "do_objectID": "B1CF1215-2C9C-4D4C-BBCE-12752454A9D1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,48 +15,38 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 124,
-    "width": 1024,
-    "x": 0,
-    "y": 0
+    "height": 178,
+    "width": 440,
+    "x": 292,
+    "y": 402
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "maintainScrollPosition": false,
-  "name": "Bars/Navigation Bar/iPad - Compact/Dark/Modal Stack - Large with Search",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "A7C247EC-90C8-4AF0-9DAB-67EF8903F618_stringValue",
-      "value": "Survey"
+      "class": "rectangle",
+      "id": "B3A0D8D9-D15B-4BB1-AA81-74FDB6672DED"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "5392C4D9-37EE-4D86-B2AC-11E4EB847EF5_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "5FBCE3DB-BCD5-40D4-8AD0-68C2662320A8_symbolID",
-      "value": "433B9C76-6300-443E-9966-EC5EA649DE6B"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "5FBCE3DB-BCD5-40D4-8AD0-68C2662320A8/350FF114-C76D-4ACE-8343-54042A3D1C21/7168F309-E6C8-4FC4-BD10-47412E085FBC_stringValue",
-      "value": "Edit"
+      "class": "text",
+      "id": "A495D3DF-BFD4-4086-AD0F-CE6663D9DE07"
     }
   ],
+  "maintainScrollPosition": false,
+  "name": "Group 2",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -92,7 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AE3B496B-D4A1-4C8A-86C0-5EC5E34C958F",
+    "do_objectID": "2B5D2BB0-11CD-4160-ACC8-F401B47A9F6F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -103,7 +93,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "C4E9FE4D-1108-4195-8405-F7E67E7FA969",
-  "verticalSpacing": 0
+  }
 }

@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "63F1F6C8-3C47-4236-B707-95267D6A0B55",
+  "do_objectID": "85A9BB89-314C-4488-A94A-01E2AF53BE71",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 124,
-    "width": 1024,
-    "x": 0,
-    "y": 0
+    "height": 60,
+    "width": 986,
+    "x": 19,
+    "y": 551
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -29,28 +29,28 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Bars/Navigation Bar/iPad - Compact/Dark/Modal Stack - Large with Search",
+  "name": "Controls/Table View/Row/Compact/Light/Large Copy 6",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "A7C247EC-90C8-4AF0-9DAB-67EF8903F618_stringValue",
-      "value": "Survey"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "5392C4D9-37EE-4D86-B2AC-11E4EB847EF5_symbolID",
+      "overrideName": "E6FC9757-CB84-4F25-8660-73BD0A48D99B_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
-      "overrideName": "5FBCE3DB-BCD5-40D4-8AD0-68C2662320A8_symbolID",
-      "value": "433B9C76-6300-443E-9966-EC5EA649DE6B"
+      "overrideName": "90AEC205-F79B-47E2-9C40-2E132679ABB2_symbolID",
+      "value": "E9AF2069-CD5D-4A30-9386-B6CB0C4DF504"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "5FBCE3DB-BCD5-40D4-8AD0-68C2662320A8/350FF114-C76D-4ACE-8343-54042A3D1C21/7168F309-E6C8-4FC4-BD10-47412E085FBC_stringValue",
-      "value": "Edit"
+      "overrideName": "9B8901D3-7FF0-43E7-B822-7DA2E7600AEA/35EDAAC6-1287-470F-A862-FB951CF231A6/DD1DFAA7-868F-4591-A9BA-D05ABBE405AA_stringValue",
+      "value": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed do eiusmod tempor incidunt ut labore et dolore magna aliqua."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9B8901D3-7FF0-43E7-B822-7DA2E7600AEA/35EDAAC6-1287-470F-A862-FB951CF231A6/A4D320BA-ABD9-490D-9585-67394B5A8885_stringValue",
+      "value": "Titolo 6"
     }
   ],
   "resizingConstraint": 63,
@@ -92,7 +92,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AE3B496B-D4A1-4C8A-86C0-5EC5E34C958F",
+    "do_objectID": "E3B2ABBE-99C2-4F6C-9A4B-DEA0E96DB178",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,6 +104,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C4E9FE4D-1108-4195-8405-F7E67E7FA969",
+  "symbolID": "F5F6CC34-8C5A-4EB6-A736-EB109C396085",
   "verticalSpacing": 0
 }

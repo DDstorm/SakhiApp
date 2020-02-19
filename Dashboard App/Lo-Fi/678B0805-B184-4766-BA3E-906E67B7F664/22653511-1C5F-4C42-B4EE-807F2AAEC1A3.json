@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "63F1F6C8-3C47-4236-B707-95267D6A0B55",
+  "do_objectID": "22653511-1C5F-4C42-B4EE-807F2AAEC1A3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 124,
+    "height": 768,
     "width": 1024,
     "x": 0,
     "y": 0
@@ -29,28 +29,28 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Bars/Navigation Bar/iPad - Compact/Dark/Modal Stack - Large with Search",
+  "name": "Views/Modals (iPad Only)/Light/Form Sheet - With Navigation Bar",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "A7C247EC-90C8-4AF0-9DAB-67EF8903F618_stringValue",
-      "value": "Survey"
+      "overrideName": "20958573-894B-4FF7-A194-B62EB1D4728A/7DA0494B-3B85-4956-8E8F-3F468A950639_symbolID",
+      "value": "36B1942B-389B-4E6F-A591-8CDD0A2AC9EA"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "5392C4D9-37EE-4D86-B2AC-11E4EB847EF5_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "5FBCE3DB-BCD5-40D4-8AD0-68C2662320A8_symbolID",
-      "value": "433B9C76-6300-443E-9966-EC5EA649DE6B"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "5FBCE3DB-BCD5-40D4-8AD0-68C2662320A8/350FF114-C76D-4ACE-8343-54042A3D1C21/7168F309-E6C8-4FC4-BD10-47412E085FBC_stringValue",
+      "overrideName": "20958573-894B-4FF7-A194-B62EB1D4728A/3EBF6A39-BD87-451B-9A7E-0364FE5E2CE7/CB194131-7AB3-4D01-9BEE-C85DDDF0BA52/C775C125-1F6B-4B13-AD74-6234E85A5421_stringValue",
       "value": "Edit"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "20958573-894B-4FF7-A194-B62EB1D4728A/7DA0494B-3B85-4956-8E8F-3F468A950639/E1309802-4A7A-4BC3-BCBC-554C77A5A76A/A0DCB727-B361-426C-AA3B-645979832755_stringValue",
+      "value": "Cancel"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "20958573-894B-4FF7-A194-B62EB1D4728A/5836F910-58E0-4F15-B03F-A72EF8C2F1D3_stringValue",
+      "value": "Add Question"
     }
   ],
   "resizingConstraint": 63,
@@ -92,7 +92,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AE3B496B-D4A1-4C8A-86C0-5EC5E34C958F",
+    "do_objectID": "D5C7BCC1-EA14-4800-A58B-4373E049062D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,6 +104,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C4E9FE4D-1108-4195-8405-F7E67E7FA969",
+  "symbolID": "0C3DAB6D-5044-47C8-98B3-BB57EC63EF76",
   "verticalSpacing": 0
 }

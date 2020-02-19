@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "63F1F6C8-3C47-4236-B707-95267D6A0B55",
+  "do_objectID": "282F2DA5-909A-46D0-8530-1E8FB0115A8E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 124,
+    "height": 50,
     "width": 1024,
     "x": 0,
-    "y": 0
+    "y": 718
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -29,28 +29,38 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Bars/Navigation Bar/iPad - Compact/Dark/Modal Stack - Large with Search",
+  "name": "Bars/Tab Bar/Regular/Light - 4 Tabs",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "A7C247EC-90C8-4AF0-9DAB-67EF8903F618_stringValue",
+      "overrideName": "350FCABB-CD0E-457E-A468-51EFDCFD9FAB/52C827BF-4A3D-41A6-8078-015F746DA812_stringValue",
+      "value": "Ground Partner"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7E939030-461B-4EB4-8A69-0E7FB3C5E77D/52C827BF-4A3D-41A6-8078-015F746DA812_stringValue",
+      "value": "Beneficiaries"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "900BE462-31B5-4B0D-B9E5-A88A7AD6E851_symbolID",
+      "value": "813DD14C-8605-40B8-9370-CA3F60FF3871"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "900BE462-31B5-4B0D-B9E5-A88A7AD6E851/52C827BF-4A3D-41A6-8078-015F746DA812_stringValue",
+      "value": "Sakhi"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4A3DA15F-BAE9-4E5C-B1E6-60967F31DDD0_symbolID",
+      "value": "5C0C2998-04C3-4E6A-8C7E-D3F93AD23FBD"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4A3DA15F-BAE9-4E5C-B1E6-60967F31DDD0/41C66BBD-D6F2-4F8C-8401-C524F7A713CC_stringValue",
       "value": "Survey"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "5392C4D9-37EE-4D86-B2AC-11E4EB847EF5_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "5FBCE3DB-BCD5-40D4-8AD0-68C2662320A8_symbolID",
-      "value": "433B9C76-6300-443E-9966-EC5EA649DE6B"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "5FBCE3DB-BCD5-40D4-8AD0-68C2662320A8/350FF114-C76D-4ACE-8343-54042A3D1C21/7168F309-E6C8-4FC4-BD10-47412E085FBC_stringValue",
-      "value": "Edit"
     }
   ],
   "resizingConstraint": 63,
@@ -92,7 +102,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AE3B496B-D4A1-4C8A-86C0-5EC5E34C958F",
+    "do_objectID": "77A784A3-D4F8-43D3-B451-82747D08FDEE",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,6 +114,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C4E9FE4D-1108-4195-8405-F7E67E7FA969",
+  "symbolID": "C660FB3E-F414-4B24-A8FD-26CE0635D150",
   "verticalSpacing": 0
 }

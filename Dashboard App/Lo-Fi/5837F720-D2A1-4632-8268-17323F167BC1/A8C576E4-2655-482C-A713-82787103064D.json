@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "63F1F6C8-3C47-4236-B707-95267D6A0B55",
+  "do_objectID": "A8C576E4-2655-482C-A713-82787103064D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 124,
-    "width": 1024,
+    "height": 44,
+    "width": 375,
     "x": 0,
-    "y": 0
+    "y": 728
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -29,28 +29,18 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Bars/Navigation Bar/iPad - Compact/Dark/Modal Stack - Large with Search",
+  "name": "Controls/Table View/Row/Compact/Light/Default Copy 2",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "A7C247EC-90C8-4AF0-9DAB-67EF8903F618_stringValue",
-      "value": "Survey"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "5392C4D9-37EE-4D86-B2AC-11E4EB847EF5_symbolID",
+      "overrideName": "B22F6528-3B3B-443F-BAA2-4FA829399B35_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
-      "overrideName": "5FBCE3DB-BCD5-40D4-8AD0-68C2662320A8_symbolID",
-      "value": "433B9C76-6300-443E-9966-EC5EA649DE6B"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "5FBCE3DB-BCD5-40D4-8AD0-68C2662320A8/350FF114-C76D-4ACE-8343-54042A3D1C21/7168F309-E6C8-4FC4-BD10-47412E085FBC_stringValue",
-      "value": "Edit"
+      "overrideName": "54EF8BD8-F358-48A8-B6DE-22F4DDB4C45D/13D7E7DE-175B-4B9E-ADA4-AEAF269672AB/95DF010F-7043-4F31-8653-4707DE62DC11_stringValue",
+      "value": "Onyama Limba"
     }
   ],
   "resizingConstraint": 63,
@@ -92,7 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AE3B496B-D4A1-4C8A-86C0-5EC5E34C958F",
+    "do_objectID": "3AC2D2AB-3D19-44D4-A945-1F58D166B3AB",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,6 +94,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C4E9FE4D-1108-4195-8405-F7E67E7FA969",
+  "symbolID": "B1D39D8D-1627-4645-AE64-FDA30DCA164A",
   "verticalSpacing": 0
 }

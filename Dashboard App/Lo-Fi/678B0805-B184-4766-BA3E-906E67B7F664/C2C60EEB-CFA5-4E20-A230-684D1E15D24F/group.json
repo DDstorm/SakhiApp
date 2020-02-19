@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "63F1F6C8-3C47-4236-B707-95267D6A0B55",
+  "do_objectID": "C2C60EEB-CFA5-4E20-A230-684D1E15D24F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,48 +15,54 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 124,
-    "width": 1024,
-    "x": 0,
-    "y": 0
+    "height": 214,
+    "width": 440,
+    "x": 292,
+    "y": 239
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "maintainScrollPosition": false,
-  "name": "Bars/Navigation Bar/iPad - Compact/Dark/Modal Stack - Large with Search",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "A7C247EC-90C8-4AF0-9DAB-67EF8903F618_stringValue",
-      "value": "Survey"
+      "class": "rectangle",
+      "id": "D84C2757-4A14-4166-816A-4CE893D8DBF1"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "5392C4D9-37EE-4D86-B2AC-11E4EB847EF5_symbolID",
-      "value": ""
+      "class": "text",
+      "id": "F6752131-4F92-40D7-85BD-EEE6BF6ACC49"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "5FBCE3DB-BCD5-40D4-8AD0-68C2662320A8_symbolID",
-      "value": "433B9C76-6300-443E-9966-EC5EA649DE6B"
+      "class": "symbolInstance",
+      "id": "7F4B0543-295C-45A4-94E2-C3BAB99611A0"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "5FBCE3DB-BCD5-40D4-8AD0-68C2662320A8/350FF114-C76D-4ACE-8343-54042A3D1C21/7168F309-E6C8-4FC4-BD10-47412E085FBC_stringValue",
-      "value": "Edit"
+      "class": "oval",
+      "id": "DDAD345A-D9F4-48E9-A14A-ECCB0CF6B2F5"
+    },
+    {
+      "class": "group",
+      "id": "CD2EF114-C1FC-498D-B727-FC200A81C643"
+    },
+    {
+      "class": "rectangle",
+      "id": "156205C0-70E3-443B-82E6-DD4408B8C06E"
     }
   ],
+  "maintainScrollPosition": false,
+  "name": "Group 3",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -92,7 +98,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AE3B496B-D4A1-4C8A-86C0-5EC5E34C958F",
+    "do_objectID": "90C2F675-DCFE-4685-BCDF-301AC7E699C6",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -103,7 +109,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "C4E9FE4D-1108-4195-8405-F7E67E7FA969",
-  "verticalSpacing": 0
+  }
 }

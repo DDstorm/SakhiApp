@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B3C169E5-054F-4EB1-96DF-40B89BF61D2E",
+  "do_objectID": "5837F720-D2A1-4632-8268-17323F167BC1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,21 +24,19 @@
     "constrainProportions": false,
     "height": 768,
     "width": 1024,
-    "x": 8052,
-    "y": 4765
+    "x": 6951,
+    "y": 6095
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      19,
-      1005
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -53,55 +51,23 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "63F1F6C8-3C47-4236-B707-95267D6A0B55"
+      "id": "547D9CA3-0EC5-4AFD-8BDD-2A1254C450BB"
     },
     {
       "class": "symbolInstance",
-      "id": "E728A670-2624-46F7-9F40-0EA10BF34231"
+      "id": "E260A9E3-6AE0-4F94-8925-39327DA3B0C4"
     },
     {
       "class": "symbolInstance",
-      "id": "D87E006B-B134-4066-8554-D3F02AA66C4A"
+      "id": "A8C576E4-2655-482C-A713-82787103064D"
     },
     {
       "class": "symbolInstance",
-      "id": "5F58B0A0-9A16-4BD0-BF40-DA0A76ACA9F7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "45DBF4BC-637D-455B-84FB-4E666901C20B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D321DC08-F899-4E30-A0AC-1A0E3E35BA88"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4A68CEEA-2C00-4C05-9FC7-077403EF7C67"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "94CC22C2-B133-4B5C-854C-D0B5022DF4A7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A98BC656-5817-459A-8479-E7CBD2F275B6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "16B02902-F8A3-4034-B53F-479F90967B77"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "75B3611A-2F76-4964-B479-40D9D89FF219"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8AD1312F-B89E-4A0C-B783-61D6D76310C2"
+      "id": "8EFA20A2-D150-4E40-A445-74557EF152B8"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Survey",
+  "name": "Survey Copy",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -149,7 +115,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9B4CACDD-E494-48F5-A0E1-007A152884AA",
+    "do_objectID": "39DD844A-7159-473E-8556-733D83443E87",
     "endMarkerType": 0,
     "fills": [
     ],
