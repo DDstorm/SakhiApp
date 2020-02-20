@@ -1,0 +1,185 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4A6A3375-8C77-4EA5-9EBF-490B5D6B0652",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 768,
+    "width": 1024,
+    "x": 3578,
+    "y": 5311
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A14B7EBF-F31D-4590-9FA8-410F346F7728"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1678A70C-1357-4ED7-89AA-67F771CE3466"
+    },
+    {
+      "class": "rectangle",
+      "id": "5A07485C-070A-4FAD-8107-2747B04A713F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "633F8212-149F-45EE-AE21-BEA4F654F359"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2576F367-07B7-43BE-AAD0-F15FF29F6A79"
+    },
+    {
+      "class": "rectangle",
+      "id": "D4263500-D135-4F90-84C1-827109B8AE1F"
+    },
+    {
+      "class": "group",
+      "id": "0E027E6F-91AB-4CE2-8ACC-83562D97ECF8"
+    },
+    {
+      "class": "group",
+      "id": "28A1971C-C142-4842-9D00-05AD7CD5F680"
+    },
+    {
+      "class": "oval",
+      "id": "63F22060-A752-47BB-A92D-5E14FE78E753"
+    },
+    {
+      "class": "text",
+      "id": "B484D3FA-9C2F-4D8C-ACF1-EABDFFA93523"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E7D05CE-49B6-4F89-A2B7-706A23EB3DD7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B0DFD22-BFA2-4C5B-9FA2-9C709D64019E"
+    },
+    {
+      "class": "group",
+      "id": "98B16C48-7741-4312-9642-9E1F9FA73A0F"
+    },
+    {
+      "class": "group",
+      "id": "54EC0DC3-707F-44C0-B2A2-A4F5AF64DB83"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "iPad Copy 6",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 768,
+    "name": "7.9” iPad mini",
+    "offersLandscapeVariant": 1,
+    "width": 1024
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "A0A5EA76-1D68-4931-AAF3-510BF41E8C08",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

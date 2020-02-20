@@ -1,0 +1,119 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8AD1312F-B89E-4A0C-B783-61D6D76310C2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 1024,
+    "x": 0,
+    "y": 718
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "Bars/Tab Bar/Regular/Light - 4 Tabs",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "350FCABB-CD0E-457E-A468-51EFDCFD9FAB/52C827BF-4A3D-41A6-8078-015F746DA812_stringValue",
+      "value": "Ground Partner"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7E939030-461B-4EB4-8A69-0E7FB3C5E77D/52C827BF-4A3D-41A6-8078-015F746DA812_stringValue",
+      "value": "Beneficiaries"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "900BE462-31B5-4B0D-B9E5-A88A7AD6E851_symbolID",
+      "value": "813DD14C-8605-40B8-9370-CA3F60FF3871"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "900BE462-31B5-4B0D-B9E5-A88A7AD6E851/52C827BF-4A3D-41A6-8078-015F746DA812_stringValue",
+      "value": "Sakhi"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4A3DA15F-BAE9-4E5C-B1E6-60967F31DDD0_symbolID",
+      "value": "5C0C2998-04C3-4E6A-8C7E-D3F93AD23FBD"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4A3DA15F-BAE9-4E5C-B1E6-60967F31DDD0/41C66BBD-D6F2-4F8C-8401-C524F7A713CC_stringValue",
+      "value": "Survey"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "016A68E0-F53D-44C6-8E4C-A3671FA73841",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C660FB3E-F414-4B24-A8FD-26CE0635D150",
+  "verticalSpacing": 0
+}
