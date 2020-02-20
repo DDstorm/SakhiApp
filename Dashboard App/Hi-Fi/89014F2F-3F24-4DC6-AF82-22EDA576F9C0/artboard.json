@@ -1,0 +1,202 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "89014F2F-3F24-4DC6-AF82-22EDA576F9C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 768,
+    "width": 1024,
+    "x": 8052,
+    "y": 5622
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      19,
+      1005
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C7F7BE54-5444-49CC-9248-58CF2C156331"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "261070CE-10D9-43F7-873D-0400F48D94C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "92D3192A-B2D8-479F-9D37-8DB68EE7F039"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F7DE5102-EAA3-4320-8169-FA0DD8AC31AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4117E31-3A6B-4F4E-B5F9-333D6EFB7481"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33DC9795-DE3F-4B34-ADAC-5A09621A3325"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0B87D9F2-4CCA-4669-BC06-14DC029CFCED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F8C2377E-14AA-435C-8976-9E62048C29D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F622D8D-9107-4F16-8D72-DB65BC03D07E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4521ACA1-CFB1-4B1D-810B-00750B7C6F9B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AE1A139D-2965-445C-9E27-82AB491A69C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03462A14-D67E-4DFE-A16D-7EFEBF7925BC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5CB321EB-E366-419A-AEDC-6A9AA17545F2"
+    },
+    {
+      "class": "group",
+      "id": "9323F1A6-DA8E-4D41-A02A-EFBF6DC87874"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC046B71-CD14-4FC6-8A88-3A8B409DDE2C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0718A383-5FE2-4560-831F-097D7AE5AE82"
+    },
+    {
+      "class": "group",
+      "id": "1922A887-AFA1-4BE4-89B5-11D92C339E6E"
+    },
+    {
+      "class": "text",
+      "id": "A0569811-7C5E-4469-91F7-59B389F869C1"
+    },
+    {
+      "class": "rectangle",
+      "id": "544D2B53-79B9-4813-9AA9-24959AC49E27"
+    },
+    {
+      "class": "text",
+      "id": "A17C286D-DEFA-4303-B7AD-30F04576D246"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Survey clicco su elemento tella table",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 768,
+    "name": "7.9” iPad mini",
+    "offersLandscapeVariant": 1,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "A62A7B64-6827-4846-B480-F57F987BD160",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

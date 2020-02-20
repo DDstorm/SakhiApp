@@ -214,7 +214,7 @@
         },
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/70ee49c6d231c863ef29b12a75ff4c80121cf877.png",
+          "_ref": "images/bd16e4183fdf4c2567e7773c78628b2174c6a67e.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
@@ -233,10 +233,10 @@
     "windingRule": 1
   },
   "userInfo": {
-    "datasupplier.key": "Faces",
+    "datasupplier.key": "unsplash_dataprovider_SearchPhoto",
     "unsplash": {
-      "unsplash.photo.id": "\"uwrvz60qiWg\"",
-      "unsplash.search.term": "\"female\""
+      "unsplash.photo.id": "\"2qOSbokGXeU\"",
+      "unsplash.search.term": "\"indian\""
     }
   }
 }

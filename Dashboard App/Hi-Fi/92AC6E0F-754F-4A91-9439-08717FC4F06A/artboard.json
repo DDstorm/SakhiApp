@@ -1,0 +1,178 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "92AC6E0F-754F-4A91-9439-08717FC4F06A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 768,
+    "width": 1024,
+    "x": 10345,
+    "y": 4765
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      19,
+      1005
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "524BCC50-050D-4B60-A832-77C091FC7ACB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D8EC8FF1-8846-4352-AC38-A665D770C3AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "418955CE-FA3C-4721-9CD8-929585005713"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "83AC2D9B-C1C9-4A60-8AA7-CC0688DB5E93"
+    },
+    {
+      "class": "group",
+      "id": "819EC0AF-EC6D-43F4-B64D-3FB733D86AF3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "87D55D99-54D6-4558-9913-AAC36D314953"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F0FC7F3-1774-4FE9-9402-377F457BEEF8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F77A80E-28FE-4976-A7E3-A02446A6973B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A17A4004-6E1A-486C-81EE-A0EF6B717C90"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2ADC6BF7-E16D-4669-AA26-E170423B4774"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4EDBD660-0156-4F52-A322-AE0D638D6985"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2A96AF30-50D2-4E28-B5D5-6671427D5B28"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B6DEB9CA-151F-456E-A651-47285C765470"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD0E3F75-A016-4587-85BA-DE1EE267EADF"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Survey-dopo aver aggiunto una nuova domanda",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 768,
+    "name": "7.9” iPad mini",
+    "offersLandscapeVariant": 1,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "30FDC8B9-63F4-4D60-9A49-6E970FF25F69",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -176,6 +176,10 @@
     {
       "class": "symbolInstance",
       "id": "22BC40B8-5394-47B9-BA1F-A8B32E6747FF"
+    },
+    {
+      "class": "group",
+      "id": "6F92AC3E-5E2F-49AE-8087-E11BBDA44CD1"
     }
   ],
   "maintainScrollPosition": false,
