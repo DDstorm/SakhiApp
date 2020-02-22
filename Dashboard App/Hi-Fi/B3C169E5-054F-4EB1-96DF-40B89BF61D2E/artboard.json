@@ -13,15 +13,6 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "jpg",
-        "name": "svg",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -33,14 +24,14 @@
     "constrainProportions": false,
     "height": 768,
     "width": 1024,
-    "x": 9405,
-    "y": 4627
+    "x": 8052,
+    "y": 4765
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -72,39 +63,43 @@
     },
     {
       "class": "symbolInstance",
-      "id": "D4163695-6DC3-4458-80F3-4B26B9B80EFD"
+      "id": "5F58B0A0-9A16-4BD0-BF40-DA0A76ACA9F7"
     },
     {
       "class": "symbolInstance",
-      "id": "B701AB83-1418-45A7-A6B7-B2334A4644F0"
+      "id": "45DBF4BC-637D-455B-84FB-4E666901C20B"
     },
     {
       "class": "symbolInstance",
-      "id": "363E83E1-464D-4E02-8128-BB208BDCE596"
+      "id": "D321DC08-F899-4E30-A0AC-1A0E3E35BA88"
     },
     {
       "class": "symbolInstance",
-      "id": "534394A5-1FA3-4D1F-80D6-3B71CBAF2AB6"
+      "id": "4A68CEEA-2C00-4C05-9FC7-077403EF7C67"
     },
     {
       "class": "symbolInstance",
-      "id": "15096E59-6390-42F5-BCBD-DE51E8FB0944"
+      "id": "94CC22C2-B133-4B5C-854C-D0B5022DF4A7"
     },
     {
       "class": "symbolInstance",
-      "id": "6CEF9680-68E1-4EDB-B325-E37D555DFEE0"
+      "id": "A98BC656-5817-459A-8479-E7CBD2F275B6"
     },
     {
       "class": "symbolInstance",
-      "id": "5EA71DA1-81FA-4241-B4FC-A0DD54EFCE83"
+      "id": "16B02902-F8A3-4034-B53F-479F90967B77"
     },
     {
       "class": "symbolInstance",
-      "id": "B36705CE-FE3F-4CB3-A524-5847A92F1790"
+      "id": "75B3611A-2F76-4964-B479-40D9D89FF219"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8AD1312F-B89E-4A0C-B783-61D6D76310C2"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Survey Arrange",
+  "name": "Survey",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
