@@ -1,0 +1,237 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "370AFD56-6FD2-4F04-AF86-3EF821B63E0A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "svg",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 768,
+    "width": 1024,
+    "x": 10576,
+    "y": 4627
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DE19DED1-EC43-45BB-9C10-E158851674AE"
+    },
+    {
+      "class": "rectangle",
+      "id": "BB82D6CE-9CD5-4F27-82A0-1B14FC228372"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6949603B-77E4-4250-A1F9-52BFA18C46B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "846074C4-6B12-4DF6-B7CA-DF50853D0CCD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF65D9A1-0D19-4226-86E3-590FFB5E6438"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9560422-5ED2-4871-B3C2-3EBC0E4F0084"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C608513-79A3-4DF0-B0E3-18E90EA933DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0273400C-E4B9-4248-ACDB-64B850E9828E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5EE8EB8B-BDF5-48E9-B93F-3E58D4B0F6BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2C0BBEDC-6D53-465D-99E2-C6C0861BAEA5"
+    },
+    {
+      "class": "text",
+      "id": "B1A9944B-184E-470D-A83F-61647E543D9E"
+    },
+    {
+      "class": "rectangle",
+      "id": "E0D40370-39E8-4FB8-A77C-03F60E044A81"
+    },
+    {
+      "class": "group",
+      "id": "D50A62EA-AFAE-49C5-A892-40F649EEB289"
+    },
+    {
+      "class": "group",
+      "id": "553CBE2C-DDA9-46CF-891B-4D5CBB3335FC"
+    },
+    {
+      "class": "text",
+      "id": "93EFE6A5-6BF6-438F-88DE-5752B4C18649"
+    },
+    {
+      "class": "text",
+      "id": "DAA45260-169D-437D-B6D8-AFDD8234169F"
+    },
+    {
+      "class": "shapePath",
+      "id": "82E411E0-3398-4E14-8D9B-59112E53A031"
+    },
+    {
+      "class": "text",
+      "id": "471016B7-F3F8-43C9-80C7-9FD84AAB0463"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B02DE03-2D25-445F-87A8-818D98541B90"
+    },
+    {
+      "class": "shapePath",
+      "id": "4F71A2AF-8222-4906-82F4-8BA221D1F421"
+    },
+    {
+      "class": "group",
+      "id": "D0E14A4B-477B-4AD3-8D6F-D2729CBACED4"
+    },
+    {
+      "class": "group",
+      "id": "593475F0-6971-4C95-911A-9AB112586595"
+    },
+    {
+      "class": "group",
+      "id": "9CD344AD-10F5-4043-B98F-D783E3772585"
+    },
+    {
+      "class": "text",
+      "id": "C800188B-C781-441C-A558-0E50784102A8"
+    },
+    {
+      "class": "text",
+      "id": "D9A2F0B7-D9F1-40BF-B3EB-33D052E2E3B0"
+    },
+    {
+      "class": "group",
+      "id": "91B3E57B-9D1B-4895-BD4A-62305E776C40"
+    },
+    {
+      "class": "group",
+      "id": "782F746B-5F7C-4C26-B146-5453EBEC5FE4"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Survey quando tocco una domanda",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 768,
+    "name": "7.9” iPad mini",
+    "offersLandscapeVariant": 1,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "FB5E359C-1C6D-45A3-B2CB-5C5F007C1678",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
