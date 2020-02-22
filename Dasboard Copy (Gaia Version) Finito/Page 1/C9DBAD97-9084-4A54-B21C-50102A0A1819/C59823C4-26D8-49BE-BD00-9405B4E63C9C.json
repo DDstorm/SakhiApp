@@ -51,6 +51,11 @@
       "_class": "overrideValue",
       "overrideName": "3EBF6A39-BD87-451B-9A7E-0364FE5E2CE7/350FF114-C76D-4ACE-8343-54042A3D1C21/7168F309-E6C8-4FC4-BD10-47412E085FBC_stringValue",
       "value": "Edit"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3EBF6A39-BD87-451B-9A7E-0364FE5E2CE7/350FF114-C76D-4ACE-8343-54042A3D1C21/4992A85E-1979-43B5-B40D-46668C260D3A_layerStyle",
+      "value": "D8D2136C-CEED-4D91-A933-A3C98AC8160E"
     }
   ],
   "resizingConstraint": 63,
