@@ -130,6 +130,14 @@
     {
       "class": "text",
       "id": "1BF9D5E5-0F8D-48AE-916C-21AF8BD88879"
+    },
+    {
+      "class": "shapePath",
+      "id": "4A20CC4C-08EF-42AF-BF2D-2CE1C74DF8F4"
+    },
+    {
+      "class": "group",
+      "id": "C730DE1E-10F7-4BB0-89C2-C5065EA33EE2"
     }
   ],
   "maintainScrollPosition": false,
