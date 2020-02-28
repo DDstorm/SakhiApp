@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,34 +61,6 @@
     {
       "class": "symbolInstance",
       "id": "DCDE8B1B-78BA-49CB-8C88-83ADAE459D92"
-    },
-    {
-      "class": "rectangle",
-      "id": "8C229A6C-766E-4CF0-98F0-903E4C2F426D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "49092EDC-500A-46DE-BC36-CFA579A7A5AD"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6ADE5CF0-C612-4165-A570-0244A7C9A567"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4B5210AB-A51A-49FA-84B9-CB978C23E235"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "16F8459A-CA2A-42D3-8C22-BC79BD549C7D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B78C5D29-ED42-4E85-9C0C-E73D3E1101F1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D405B24E-0468-40E7-A620-F4227585EDD7"
     },
     {
       "class": "symbolInstance",
@@ -123,12 +95,12 @@
       "id": "E6072E5E-F0C7-4EC2-A7B1-C4BD0B731329"
     },
     {
-      "class": "shapePath",
-      "id": "6455FD92-E64F-42C5-99B0-CEB7B2C9F3C8"
+      "class": "text",
+      "id": "D30956A3-5C8B-469A-950C-CA739B35BA45"
     },
     {
       "class": "text",
-      "id": "D30956A3-5C8B-469A-950C-CA739B35BA45"
+      "id": "3B068821-EFD6-4C2B-B081-453FFB10FD89"
     },
     {
       "class": "symbolInstance",
@@ -137,10 +109,6 @@
     {
       "class": "shapePath",
       "id": "28CCE5E7-3432-40D7-B1A2-E5CD15B99818"
-    },
-    {
-      "class": "group",
-      "id": "AADFEABA-3D63-4D28-B899-A890223EBA05"
     },
     {
       "class": "group",
@@ -165,6 +133,14 @@
     {
       "class": "group",
       "id": "7AF0A367-5C90-4E1C-9527-61EB7400EBC5"
+    },
+    {
+      "class": "shapePath",
+      "id": "6455FD92-E64F-42C5-99B0-CEB7B2C9F3C8"
+    },
+    {
+      "class": "shapePath",
+      "id": "50AD0969-F69E-4F36-972F-3FA3AEC92B1D"
     }
   ],
   "maintainScrollPosition": false,

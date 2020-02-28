@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -63,34 +63,6 @@
       "id": "6505A3E7-F89D-4049-B0D5-68C75C6603AF"
     },
     {
-      "class": "rectangle",
-      "id": "6C514548-AD0C-44B0-AB07-0D123B4DE498"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1A5928DE-2609-487D-8592-E1A4613FC0C6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "20692E4A-84C9-4B56-855B-6EFB6109700C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F82F20B2-FDC2-4C9A-9D8B-5EEA6BC46622"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C7139337-0118-4142-9CF6-2AB5075275BA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "241E6318-228E-4CEC-8321-DA1AC83693A7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "281BD79F-0211-4BEB-AC0B-803FFD0ACEC4"
-    },
-    {
       "class": "symbolInstance",
       "id": "26B6DF11-7CE7-420C-A698-24C1F79E9D8B"
     },
@@ -105,10 +77,6 @@
     {
       "class": "rectangle",
       "id": "8357A7DE-7F30-4595-9A37-75C4F389BC35"
-    },
-    {
-      "class": "rectangle",
-      "id": "00D55E12-5762-4FCD-A179-A2A2FE260145"
     },
     {
       "class": "group",
@@ -127,10 +95,6 @@
       "id": "DD3910C8-1E93-49AE-B657-BEFA530C4A97"
     },
     {
-      "class": "shapePath",
-      "id": "204D0293-BAAA-4699-A6BB-09335554E3F2"
-    },
-    {
       "class": "text",
       "id": "0A9485E5-5B44-4355-85EE-6270091896B8"
     },
@@ -144,11 +108,11 @@
     },
     {
       "class": "shapePath",
-      "id": "8F702633-8E97-49A1-B0CF-7BDF6E957290"
+      "id": "204D0293-BAAA-4699-A6BB-09335554E3F2"
     },
     {
-      "class": "group",
-      "id": "FF36BE26-9232-4CA9-B9C8-0FA1DF57549D"
+      "class": "shapePath",
+      "id": "8F702633-8E97-49A1-B0CF-7BDF6E957290"
     },
     {
       "class": "text",
@@ -185,6 +149,18 @@
     {
       "class": "symbolInstance",
       "id": "E7779698-B41A-4873-8194-125462646AFD"
+    },
+    {
+      "class": "group",
+      "id": "D7405C83-8DB6-4868-A354-C0A7FA4CB0F6"
+    },
+    {
+      "class": "text",
+      "id": "AE79F919-4EE3-4C49-81B6-AC64AE132C74"
+    },
+    {
+      "class": "shapePath",
+      "id": "49913A54-EC4F-4A20-BF61-FC75EB1C148B"
     }
   ],
   "maintainScrollPosition": false,

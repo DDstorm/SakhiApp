@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 15,
+        "length": 59,
         "location": 0
       }
     ],
-    "string": "Non mi trovo DD"
+    "string": "Aggoustato Ps non è una split view sta solo messo a destra "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 238,
+    "height": 952,
     "width": 1786,
     "x": 0.5,
     "y": 0
   },
-  "glyphBounds": "{{16, 27}, {1603, 166}}",
+  "glyphBounds": "{{3, 49}, {1758, 858}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Non mi trovo DD",
+  "name": "Aggoustato Ps non è",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
