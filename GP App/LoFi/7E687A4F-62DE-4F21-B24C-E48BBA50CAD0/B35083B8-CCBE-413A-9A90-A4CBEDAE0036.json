@@ -1,0 +1,114 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B35083B8-CCBE-413A-9A90-A4CBEDAE0036",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 768,
+    "width": 1025,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "Views/Modals (iPad Only)/Light/Form Sheet - Empty",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "20958573-894B-4FF7-A194-B62EB1D4728A/5836F910-58E0-4F15-B03F-A72EF8C2F1D3_stringValue",
+      "value": "Nome Sakhi"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "20958573-894B-4FF7-A194-B62EB1D4728A/7DA0494B-3B85-4956-8E8F-3F468A950639_symbolID",
+      "value": "49689684-A0AF-43FF-A535-F00593A109D2"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "20958573-894B-4FF7-A194-B62EB1D4728A/7DA0494B-3B85-4956-8E8F-3F468A950639/E1309802-4A7A-4BC3-BCBC-554C77A5A76A/A0DCB727-B361-426C-AA3B-645979832755_stringValue",
+      "value": "Cancel"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "20958573-894B-4FF7-A194-B62EB1D4728A/3EBF6A39-BD87-451B-9A7E-0364FE5E2CE7_symbolID",
+      "value": "F432F071-AF61-4BF0-BA35-71D0E09327DE"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "20958573-894B-4FF7-A194-B62EB1D4728A/3EBF6A39-BD87-451B-9A7E-0364FE5E2CE7/350FF114-C76D-4ACE-8343-54042A3D1C21/7168F309-E6C8-4FC4-BD10-47412E085FBC_stringValue",
+      "value": "Azione"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "B9CD1222-F52B-4974-BBFA-AE2B60448A49",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "25BC5A8F-7191-4099-AD56-A974C669BD1E",
+  "verticalSpacing": 0
+}
