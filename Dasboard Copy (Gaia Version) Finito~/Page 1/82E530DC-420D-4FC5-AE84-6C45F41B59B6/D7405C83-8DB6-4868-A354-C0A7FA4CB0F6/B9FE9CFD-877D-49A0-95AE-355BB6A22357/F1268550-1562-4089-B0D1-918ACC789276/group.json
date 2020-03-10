@@ -1,0 +1,187 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F1268550-1562-4089-B0D1-918ACC789276",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 45,
+    "width": 34,
+    "x": 61.20000000000008,
+    "y": 177.3
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "FD432B4A-DC95-4B72-83F6-14730381C3AC"
+    },
+    {
+      "class": "shapePath",
+      "id": "E1DCF257-2AEC-43B7-971B-A6D0A929B9E4"
+    },
+    {
+      "class": "shapePath",
+      "id": "5EF5C6DE-01DC-42C4-8361-90A052191508"
+    },
+    {
+      "class": "shapePath",
+      "id": "3C6C1F87-3767-4D2D-9894-6B35B0B98043"
+    },
+    {
+      "class": "shapePath",
+      "id": "56D98062-1AFE-4954-91C1-B8A1D341EA46"
+    },
+    {
+      "class": "oval",
+      "id": "9B234170-2F9E-4188-B01C-1C8902B22D8C"
+    },
+    {
+      "class": "oval",
+      "id": "660EA201-81E8-47DF-95FA-1499F5E06168"
+    },
+    {
+      "class": "oval",
+      "id": "D71F5426-05F3-47CA-8934-A3211A0891FC"
+    },
+    {
+      "class": "oval",
+      "id": "B0B88A1D-F3FF-4081-8724-DF3483915C44"
+    },
+    {
+      "class": "shapePath",
+      "id": "B2F4B645-7559-4DB6-AD58-7EC6039A7025"
+    },
+    {
+      "class": "shapePath",
+      "id": "94436F52-D38A-46E7-B938-F0DE0064D2B5"
+    },
+    {
+      "class": "shapePath",
+      "id": "545311C0-534C-49ED-AF5A-8E35B9C5EC69"
+    },
+    {
+      "class": "shapePath",
+      "id": "D0C89A1C-21BA-4E71-8503-B7E5C2EE3ED2"
+    },
+    {
+      "class": "shapePath",
+      "id": "2616010A-65EA-45B4-9109-F3E62082E03E"
+    },
+    {
+      "class": "shapePath",
+      "id": "A21FFB3E-A870-4FEF-9C94-984044C071E5"
+    },
+    {
+      "class": "shapePath",
+      "id": "7711143E-9C67-4F8C-8A58-2DE51018A822"
+    },
+    {
+      "class": "shapePath",
+      "id": "20F5ED82-6BEE-4704-9481-0B3FBA11F84E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CDB02E3C-891D-4FB7-89A4-ED0E95B504C9"
+    },
+    {
+      "class": "shapePath",
+      "id": "C47A3485-461E-4F51-91F8-86F7D49E90DF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "958F8ABE-B7CE-40F2-9E76-7B560CF998AD"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "woman-2 copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "9885855D-311E-4776-9CF7-96D985BAE4A3",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C581147A-9F14-4FA2-87EC-2028456485C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 45,
+    "width": 34,
+    "x": 61.20000000000008,
+    "y": 177.3
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "45631464-DA53-4C53-BCC8-8663961567B5"
+    },
+    {
+      "class": "shapePath",
+      "id": "D1A292CF-3D43-4080-85D9-08A8CC70BFEF"
+    },
+    {
+      "class": "shapePath",
+      "id": "3756F3D1-907E-4572-8CE3-8828177FB22B"
+    },
+    {
+      "class": "shapePath",
+      "id": "6FBEC5D1-408A-45FA-9852-468079125B8E"
+    },
+    {
+      "class": "shapePath",
+      "id": "5008B9CB-BD0B-403B-A694-943C8575A4B4"
+    },
+    {
+      "class": "oval",
+      "id": "23F23B3F-F0FB-4FBB-A7A1-7C0EB138B08A"
+    },
+    {
+      "class": "oval",
+      "id": "435737C3-BA9E-4CCD-9600-3F20C8A2DF36"
+    },
+    {
+      "class": "oval",
+      "id": "62E0AFF7-C960-458A-AEA2-E55630937058"
+    },
+    {
+      "class": "oval",
+      "id": "07BCD210-8C94-4D9E-AF23-48114119A2C1"
+    },
+    {
+      "class": "shapePath",
+      "id": "334BEA75-337E-414D-A16F-E420A23E75F6"
+    },
+    {
+      "class": "shapePath",
+      "id": "6F27B4E9-BCC8-4B66-95A9-32EA2A11E3F0"
+    },
+    {
+      "class": "shapePath",
+      "id": "434C72E1-DA0C-41F5-BFDB-BA0399E73559"
+    },
+    {
+      "class": "shapePath",
+      "id": "5936CC78-F907-4CFF-9E1D-592D10C194BB"
+    },
+    {
+      "class": "shapePath",
+      "id": "3DDBE8BB-14C1-4254-B50F-63732D103309"
+    },
+    {
+      "class": "shapePath",
+      "id": "9188F0D4-AA22-4E2D-9BDB-B6D401168499"
+    },
+    {
+      "class": "shapePath",
+      "id": "8FDA1D63-5348-474B-8520-9F14C7CD51B9"
+    },
+    {
+      "class": "shapePath",
+      "id": "04804379-6DE8-48EE-A862-CADE2A77B511"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A74FE823-3A78-49D0-9C6B-58059DE178DF"
+    },
+    {
+      "class": "shapePath",
+      "id": "CA7A9E04-DC74-4233-8D41-8548D109B4A4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7B5B9486-FDEF-4FB2-A455-CAF22150358E"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "woman-2 copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "CAE72B34-9180-4525-8BE9-FA20BFC6469F",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

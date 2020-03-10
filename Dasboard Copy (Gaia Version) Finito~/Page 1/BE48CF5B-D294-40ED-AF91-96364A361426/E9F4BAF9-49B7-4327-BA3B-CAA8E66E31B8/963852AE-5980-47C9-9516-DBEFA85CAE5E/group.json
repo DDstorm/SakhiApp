@@ -1,0 +1,187 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "963852AE-5980-47C9-9516-DBEFA85CAE5E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 46,
+    "width": 36,
+    "x": 60.29999999999988,
+    "y": 105.3
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "724B71B9-3307-4612-9155-C6288C36942A"
+    },
+    {
+      "class": "shapePath",
+      "id": "13A0C99B-834F-4E31-92B6-1F8E02220C4F"
+    },
+    {
+      "class": "shapePath",
+      "id": "8959E8FB-39C5-4952-93EB-3D5505B913D7"
+    },
+    {
+      "class": "shapePath",
+      "id": "53B202DE-661A-428F-8D73-876F86E5A27F"
+    },
+    {
+      "class": "shapePath",
+      "id": "DFB77049-22C7-4AD8-A2A4-E2644C9DAFE8"
+    },
+    {
+      "class": "group",
+      "id": "52FDE6FD-734F-4499-B2A4-4C9BDE5EAE55"
+    },
+    {
+      "class": "shapePath",
+      "id": "FB5E3AF7-1A92-490C-9E1F-83A42A16EE37"
+    },
+    {
+      "class": "shapePath",
+      "id": "18D21F24-83A5-4E3D-AFF7-45D43E9F9BDE"
+    },
+    {
+      "class": "group",
+      "id": "B6370659-442F-4D4A-BA2F-06B56B55A612"
+    },
+    {
+      "class": "shapePath",
+      "id": "2210536C-A967-4A64-90DC-063F89CAFE7E"
+    },
+    {
+      "class": "shapePath",
+      "id": "DB8FA29F-6419-493B-BB60-77EF30575D1A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DFF0A1F7-C4B4-4912-A47B-0549B814F84B"
+    },
+    {
+      "class": "shapePath",
+      "id": "8D5306E7-3359-4123-A142-79435B996946"
+    },
+    {
+      "class": "shapePath",
+      "id": "830C5C19-7EFF-42CE-B12C-177D4AC5B400"
+    },
+    {
+      "class": "shapePath",
+      "id": "E6B16E96-09B0-4BEB-BB0B-BAD61CC84B31"
+    },
+    {
+      "class": "shapePath",
+      "id": "08D1E30B-E3FF-4670-93E0-674915F8666E"
+    },
+    {
+      "class": "shapePath",
+      "id": "6CCE6BB0-65C4-4031-A1FA-1342A1D45FE8"
+    },
+    {
+      "class": "shapePath",
+      "id": "3D2820F4-9C51-405E-8F63-ABFBC5BB8B71"
+    },
+    {
+      "class": "shapePath",
+      "id": "D32454EA-2329-4CC8-AAE4-5F597876E9DA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "348413D7-957C-4B78-B4C1-4498F86AF77C"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "001-man copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "7CC7044A-BE38-49B5-9025-BE7E4AFE63A9",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
