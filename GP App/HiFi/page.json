@@ -39,6 +39,94 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "42E3E2F5-485F-478B-B71E-2F5B595F3455"
+    },
+    {
+      "class": "artboard",
+      "id": "628AE90A-602E-4862-A8AE-A7CF377B7497"
+    },
+    {
+      "class": "artboard",
+      "id": "0A60213B-E773-4F37-B091-57A9F7E56F09"
+    },
+    {
+      "class": "artboard",
+      "id": "D14D0FE6-7935-4C4C-926D-17EAC05D7643"
+    },
+    {
+      "class": "artboard",
+      "id": "0D906E81-CE49-410A-ABBB-30C751A24996"
+    },
+    {
+      "class": "group",
+      "id": "0CACA4E2-BB29-4C4B-936A-80AB477813B1"
+    },
+    {
+      "class": "group",
+      "id": "6147F4F8-56CA-4C2B-A0BC-51D3E3901934"
+    },
+    {
+      "class": "group",
+      "id": "A9EC69F1-58CB-4FF8-B2B4-4045A283D161"
+    },
+    {
+      "class": "group",
+      "id": "00D8B98F-A7F2-4539-8CAF-DCB4E677C8A6"
+    },
+    {
+      "class": "group",
+      "id": "B9F28BC0-AA74-4E62-B6D0-F8CA6C6CF1A4"
+    },
+    {
+      "class": "group",
+      "id": "7FCB1D51-2FEA-427A-ADB8-E0B5E28C3939"
+    },
+    {
+      "class": "group",
+      "id": "76F069AC-97A4-435A-8E6F-8D814DC8E28A"
+    },
+    {
+      "class": "group",
+      "id": "702B146F-D875-46C3-AAED-1A8E7FBD36BA"
+    },
+    {
+      "class": "group",
+      "id": "0A3CD326-ACCB-4771-A412-13595C1BB6A9"
+    },
+    {
+      "class": "group",
+      "id": "297F294C-1D4B-4886-AC43-E5AE9530123D"
+    },
+    {
+      "class": "group",
+      "id": "5ECF12C9-ED2C-465C-9895-990A976A089F"
+    },
+    {
+      "class": "group",
+      "id": "A4542ACF-B815-426E-9360-688E94A81AA2"
+    },
+    {
+      "class": "group",
+      "id": "E3204CE8-97D9-4584-B524-F8F4572B2DB3"
+    },
+    {
+      "class": "text",
+      "id": "770C2AA6-D197-4158-8E7B-C72890BBF4C6"
+    },
+    {
+      "class": "text",
+      "id": "E707F153-E92C-424A-929E-A477DD67444B"
+    },
+    {
+      "class": "text",
+      "id": "83987017-A323-4267-93CD-65431AEF44F6"
+    },
+    {
+      "class": "text",
+      "id": "F38EB4C5-467D-4A51-B273-59BC7C768F25"
+    }
   ],
   "maintainScrollPosition": false,
   "name": "HiFi",

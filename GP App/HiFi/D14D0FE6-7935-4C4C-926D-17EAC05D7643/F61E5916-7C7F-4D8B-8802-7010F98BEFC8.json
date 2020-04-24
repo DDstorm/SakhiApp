@@ -1,0 +1,119 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F61E5916-7C7F-4D8B-8802-7010F98BEFC8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 1024,
+    "x": 0,
+    "y": 718
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "Bars/Tab Bar/Regular/Light - 4 Tabs",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E4067D51-6D06-47B0-8620-5AB7748879E1/52C827BF-4A3D-41A6-8078-015F746DA812_stringValue",
+      "value": "Beneficiaries"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2856BC07-5283-43CA-9203-EE70866F569B/52C827BF-4A3D-41A6-8078-015F746DA812_stringValue",
+      "value": "Sakhi"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "42F53D9F-AF20-4A8B-8CAB-BB24486D50B8/41C66BBD-D6F2-4F8C-8401-C524F7A713CC_stringValue",
+      "value": "Dashboard"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "42F53D9F-AF20-4A8B-8CAB-BB24486D50B8/F49EB832-CCC6-444A-B14F-E89EEFC74F7E/F918D6CD-D7A3-41A5-BAA3-7E8B62C6A96A_stringValue",
+      "value": "􀋱"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2856BC07-5283-43CA-9203-EE70866F569B/3A90BFFF-7564-4CBF-9367-5FBEB0690455/F918D6CD-D7A3-41A5-BAA3-7E8B62C6A96A_stringValue",
+      "value": "􀆮"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E4067D51-6D06-47B0-8620-5AB7748879E1/3A90BFFF-7564-4CBF-9367-5FBEB0690455/F918D6CD-D7A3-41A5-BAA3-7E8B62C6A96A_stringValue",
+      "value": "􀝋"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "724DD39D-8067-4353-820C-69AAE1D6BD78",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BFCBDBD2-5F4E-4021-B42B-35F6A24A0D4B",
+  "verticalSpacing": 0
+}
